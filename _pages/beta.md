@@ -4,7 +4,7 @@ title: Testflight Beta
 include_in_header: true
 ---
 
-# [Testflight Beta](https://apple.com)
+# Testflight Beta
 
 Bei Interesse kann mit einem Klick auf den Link  an der [Testflight Beta](https://apple.com) dieser App teilgenommen werden.
 
