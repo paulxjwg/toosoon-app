@@ -9,7 +9,7 @@ playstore_link                            :                                     
 presskit_download_link                    : #https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : /assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : TooSoon                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Kostenlos                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Nie wieder Termine verpassen
@@ -55,13 +55,30 @@ features                                  :
     fontawesome_icon_name                 : history
 
   - title                                 : Elegantes Design
-    description                           : Einfaches und elegantes Design.
+    description                           : Einfaches und elegantes Design mit Darkmode.
     fontawesome_icon_name                 : drafting-compass
+
+
+
+# big features with images list
+featuresBig                               :
+  - title                                 : Darkmode
+    description                           : Zeigt genau, wie viele Wochen und Tage noch verbleiben.
+    image                                 : /assets/featureImages/screenshot.png
+
+  - title                                 : Watch app
+    description                           : Zeigt genau, wie viele Wochen und Tage noch verbleiben.
+    image                                 : /assets/featureImages/screenshotWatch.png
+
+  - title                                 : Widgets
+    description                           : Zeigt genau, wie viele Wochen und Tage noch verbleiben.
+    image                                 : /assets/featureImages/screenshot.png
+
 
 
 # Theme Settings
 topbar_color                              : "#000000"
-topbar_transparency                       : 0.3
+topbar_transparency                       : 0.5
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
