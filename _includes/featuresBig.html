@@ -13,7 +13,12 @@
             </p>
         </div>
         <div class="">
+            {% if feature.image2 %}
+            <img class="featureBigTwoImages" src="{{ feature.image }}"></img>
+            <img class="featureBigTwoImages" src="{{ feature.image2 }}"></img>
+            {% else %}
             <img class="featureBigImage" src="{{ feature.image }}"></img>
+            {% endif %}
         </div>
        
     </div>

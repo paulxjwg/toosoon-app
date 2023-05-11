@@ -626,7 +626,7 @@ nav > ul li a:active {
 	//padding-top: 63px;
 	padding-left: 15px;
 	padding-right: 15px;
-	width: 70%;
+	width: 80%;
 
 	// display: grid;
  	align-items: center;
@@ -650,6 +650,14 @@ nav > ul li a:active {
 	height:  auto;
 	padding: 15px;
 	border-radius: 35px;
+}
+
+.featureBigTwoImages {
+	//padding-left: 200px;
+	max-width: 200px;
+	height:  auto;
+	padding: 15px;
+	border-radius: 30px;
 }
 
 .featureBigText {
@@ -693,6 +701,12 @@ nav > ul li a:active {
 
 	.featureBigImage {
 		//max-width: 150px;
+	}
+
+	.featureBigTwoImages {
+		//padding-left: 200px;
+		padding: 15px;
+		max-width: 300px;
 	}
 
 	.featureBigText {

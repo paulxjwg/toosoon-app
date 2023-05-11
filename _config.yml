@@ -51,7 +51,7 @@ features                                  :
     fontawesome_icon_name                 : palette
 
   - title                                 : Ansicht für vergangene Termine
-    description                           : Alte Termine können angeguckt werden.
+    description                           : Geschaffte Termine werden nie vergessen.
     fontawesome_icon_name                 : history
 
   - title                                 : Elegantes Design
@@ -63,26 +63,32 @@ features                                  :
 # big features with images list
 featuresBig                               :
   - title                                 : Darkmode
-    description                           : Zeigt genau, wie viele Wochen und Tage noch verbleiben.
+    description                           : Elegantes Design synchronisiert mit der Systemhelligkeit, optimiert für jedes Erscheinungsbild.
     image                                 : /assets/featureImages/screenshot.png
-
-  - title                                 : Watch app
-    description                           : Zeigt genau, wie viele Wochen und Tage noch verbleiben.
-    image                                 : /assets/featureImages/screenshotWatch.png
 
   - title                                 : Widgets
-    description                           : Zeigt genau, wie viele Wochen und Tage noch verbleiben.
+    description                           : Zeigen auf einen Blick, wie viele Wochen und Tage noch verbleiben, ob auf dem Home- oder dem Sperrbildschirm.
     image                                 : /assets/featureImages/screenshot.png
+    image2                                : /assets/featureImages/screenshot.png
+
+  - title                                 : Watch App
+    description                           : Auch am Handgelenk immer auf dem neusten Stand, automatisch synchronisiert.
+    image                                 : /assets/featureImages/screenshotWatch.png
+
+  - title                                 : Watch Komplikationen
+    description                           : Bei jedem Blick auf die Uhr nicht nur die Zeit, sondern auch die Termine im Blick behalten.
+    image                                 : /assets/featureImages/screenshotWatch.png
+    image2                                : /assets/featureImages/screenshotWatch.png
 
 
 
 # Theme Settings
 topbar_color                              : "#000000"
-topbar_transparency                       : 0.5
+topbar_transparency                       : 0.6
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#FF9F0A"
+cover_overlay_color                       : "#774800"
 cover_overlay_transparency                : 0.7
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
