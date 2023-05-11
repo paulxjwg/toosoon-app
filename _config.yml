@@ -3,6 +3,7 @@ page_title                                :                                     
 
 # App Info
 ios_app_id                                : 1535989291                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_country                           : de                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -20,7 +21,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Paul Bernhard
-your_link                                 : #https://emilbaehr.com                     
+your_link                                 :                    
 your_city                                 : Deutschland                                
 email_address                             : paulbernhard.dev@gmail.com
 facebook_username                         :                                           
@@ -28,6 +29,7 @@ instagram_username                        :
 twitter_username                          : 
 github_username                           : paulxjwg
 youtube_username                          :
+mastodon_link                             : 
 
 
 
