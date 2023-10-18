@@ -10,9 +10,9 @@ playstore_link                            :                                     
 presskit_download_link                    : #https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : /assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : TooSoon                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Kostenlos                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_icon                                  :                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Nie wieder Termine verpassen
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -66,21 +66,21 @@ features                                  :
 featuresBig                               :
   - title                                 : Darkmode
     description                           : Elegantes Design synchronisiert mit der Systemhelligkeit, optimiert für jedes Erscheinungsbild.
-    image                                 : /assets/featureImages/screenshot.png
+    image                                 : /assets/featureImages/darkmode blended.png
 
   - title                                 : Widgets
     description                           : Zeigen auf einen Blick, wie viele Wochen und Tage noch verbleiben, ob auf dem Home- oder dem Sperrbildschirm.
-    image                                 : /assets/featureImages/screenshot.png
-    image2                                : /assets/featureImages/screenshot.png
+    image                                 : /assets/featureImages/Simulator Screen Shot - iPhone 14 Pro - 2023-10-18 at 16.45.26.png
+    image2                                : /assets/featureImages/Simulator Screen Shot - iPhone 14 Pro - 2023-10-18 at 16.57.35.png
 
   - title                                 : Watch App
     description                           : Auch am Handgelenk immer auf dem neusten Stand, automatisch synchronisiert.
-    image                                 : /assets/featureImages/screenshotWatch.png
+    image                                 : /assets/featureImages/Watch Series 8 (45mm)-01mainScreen.png
 
   - title                                 : Watch Komplikationen
     description                           : Bei jedem Blick auf die Uhr nicht nur die Zeit, sondern auch die Termine im Blick behalten.
-    image                                 : /assets/featureImages/screenshotWatch.png
-    image2                                : /assets/featureImages/screenshotWatch.png
+    image                                 : /assets/featureImages/Watch Series 8 (45mm)-02widgets1.png
+    image2                                : /assets/featureImages/Watch Series 8 (45mm)-03widgets2.png
 
 
 

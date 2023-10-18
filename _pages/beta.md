@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Testflight Beta
-include_in_header: true
+include_in_header: false
 ---
 
 # Testflight Beta

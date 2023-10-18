@@ -6,7 +6,9 @@ include_in_header: true
 
 # Changelog
 
-Die App befindet sich noch in der Beta-Phase.
+## Version 1.0
+
+Die erste Version der App.
 
 
 <br>
