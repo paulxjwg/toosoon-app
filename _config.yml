@@ -66,21 +66,21 @@ features                                  :
 featuresBig                               :
   - title                                 : Darkmode
     description                           : Elegantes Design synchronisiert mit der Systemhelligkeit, optimiert für jedes Erscheinungsbild.
-    image                                 : /assets/featureImages/darkmodeBlended.png
+    image                                 : assets/featureImages/darkmodeBlended.png
 
   - title                                 : Widgets
     description                           : Zeigen auf einen Blick, wie viele Wochen und Tage noch verbleiben, ob auf dem Home- oder dem Sperrbildschirm.
-    image                                 : /assets/featureImages/iPhone14ProWidgets1.png
-    image2                                : /assets/featureImages/iPhone14ProWidgets2.png
+    image                                 : assets/featureImages/iPhone14ProWidgets1.png
+    image2                                : assets/featureImages/iPhone14ProWidgets2.png
 
   - title                                 : Watch App
     description                           : Auch am Handgelenk immer auf dem neusten Stand, automatisch synchronisiert.
-    image                                 : /assets/featureImages/WatchSeries8(45mm)-01mainScreen.png
+    image                                 : assets/featureImages/WatchSeries8(45mm)-01mainScreen.png
 
   - title                                 : Watch Komplikationen
     description                           : Bei jedem Blick auf die Uhr nicht nur die Zeit, sondern auch die Termine im Blick behalten.
-    image                                 : /assets/featureImages/WatchSeries8(45mm)-02widgets1.png
-    image2                                : /assets/featureImages/WatchSeries8(45mm)-03widgets2.png
+    image                                 : assets/featureImages/WatchSeries8(45mm)-02widgets1.png
+    image2                                : assets/featureImages/WatchSeries8(45mm)-03widgets2.png
 
 
 
